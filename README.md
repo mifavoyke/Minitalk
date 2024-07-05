@@ -1,3 +1,5 @@
+<img width="1045" alt="Screenshot 2024-07-05 at 14 42 24" src="https://github.com/mifavoyke/Minitalk/assets/159483969/01d34b74-5070-4f30-8845-5b469af0c350">
+
 # **Minitalk**
 
 **Minitalk** is a simple communication program that includes a client and a server. The server prints messages received from the client. The communication is done using UNIX signals, specifically `SIGUSR1` and `SIGUSR2`.
